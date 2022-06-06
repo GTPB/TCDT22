@@ -20,15 +20,18 @@ The role of discussions and exercises
 Feedback and assessment
 
 ### When does learning take place?
+
 Active learning
+
 Not a single learning theory can be universally accepted
+
 Constructivism (Piaget)
+
 Connectivism, not really a learning theory
 
 ![](https://i.imgur.com/NnT2Fzr.jpg=800x500)
 
-Teaching and training adults
-Collective intelligence
+Teaching and training adultsCollective intelligence
 
 ### Actual delivery
 Starting a training course
