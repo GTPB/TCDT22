@@ -62,15 +62,20 @@ The role of wrap-up sessions
 
 ## Six strategies for effective learning (based on evidence from cognitive research)
 ![](https://i.imgur.com/zs1NHjV.png)
+
 ---
-## Book - _Six Strategies for Effective Learning_
+## Book - _Six Strategies for Effective Learning
+
 by Yana Weinstein, Megan Smith & Oliver Caviglioli is licensed under a Create Commons
 Attribution-NonCommercial-NoDerivatives 4.0 International License. It is based on work that
 can be found at
+
 [http://www.learningscientists.org, teachinghow2s.com/cogsci](http:
 //www.learningscientists.org)
+
 ---
 ![](https://i.imgur.com/cyRoQaE.png)
+
 ---
 
 - Carefully read the strategies 
@@ -81,7 +86,7 @@ can be found at
 ---
 ## 7 evidence-based learning principles
 #### Principle P1:
-Students' prior knowledge can help or hinder learning.
+Learnerss' prior knowledge can help or hinder learning.
 #### Principle P2:
 How learners organise knowledge influences how they learn and apply what they know.
 #### Principle P3:
