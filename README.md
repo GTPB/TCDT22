@@ -139,9 +139,10 @@ thinking (complexity, experience, etc).
 ## Learning outcomes (LOs)
 - LOs (more accurately “desired LOs”) are statements of what you might (in principle) assess.
 - You may not end up assessing all of them, but they are statements of what a successful*
-learner will know or be able to do at the end of instruction.
+learner will know or be able to AUTONOMOUSLY do at the end of instruction.
 - By the end of the course (session/course/instruction) the successful learner will be able
-to.........
+to AUTONOMOULY .......
+
 ---
 ![](https://i.imgur.com/WvwHoQO.png)
 
@@ -157,10 +158,11 @@ able to.........
 learn, understand, believe
 
 ---
-## Challenge: How do I write LOs?
+## How do I write LOs?
 1. Think of a lesson/session you usually deliver
 2. Write one or more Learning Outcomes for the lesson/session
-3. Write to the GDoc the title of the lesson/session and the corresponding LO(s)
+3. Write the title of the lesson/session and the corresponding LO(s)
+4. Discuss in the group
 
 ---
 ![](https://i.imgur.com/mCRBRqu.png)
@@ -192,10 +194,6 @@ Principle **P1**: Learners' prior knowledge can help or hinder learning.
 Mental model - A collection of concepts and facts, along with the relationships between those
 concepts, that a person has about a topic or field.
 ![](https://i.imgur.com/LcX3r2T.png)
-
----
-Example: mental model of DNA
-![](https://i.imgur.com/J8nGdnt.png)
 
 ---
 ## Novice vs Competent Practitioner vs Expert
@@ -237,13 +235,6 @@ Extraneous cognitive load refers to the way information or tasks are presented t
 ![](https://i.imgur.com/GvMRzj7.png)
 Split-attention occurs when learners are required to split their attention between at least
 two sources of information that have been separated either spatially or temporally.
-
----
-![](https://i.imgur.com/xNVGiL2.png)
-
----
-![](https://i.imgur.com/aEfW2Mb.png)
----
 
 
 ---
