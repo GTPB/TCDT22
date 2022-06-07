@@ -1,10 +1,8 @@
 # TCDT22
-Training Course Delivery Techniques (2022/06/07)
+### Training Course Delivery Techniques (2022/06/07)
 
 This content is aimed at newcomers to training course delivery
-
 Training course design is deliberately not explored here in any detail here
-
 Content for this session has been partially adapted from the Elixir Train the Trainer repositories and other training resources combined
 
 ---
