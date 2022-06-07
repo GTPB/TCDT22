@@ -275,3 +275,10 @@ necessary for learning (and it is definitely not sufficient!).
 
 ---
 # End of Session
+
+### References and Acknowledgements
+
+ELIXIR TtT Salerno 2017
+https://github.com/TrainTheTrainer/EXCELERATE-TtT/tree/master/courses/Salerno2017
+
+
