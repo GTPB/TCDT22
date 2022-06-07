@@ -17,7 +17,7 @@ Training is an istance of Non-Formal learning, shomehow in between:
 - Formal: attend classes, perform in exams to obtain a degree
 - Informal: learn how to make the perferct scrambled eggs
 
-Active learning 
+## Active learning 
 
 Watch together:
 Peer Instruction for Active Learning - Eric Mazur
