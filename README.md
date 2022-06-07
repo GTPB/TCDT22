@@ -104,13 +104,8 @@ To become self-directed, they must learn to monitor and adjust their approaches
 to learning.
 
 ---
-## Challenge: How do you understand the seven principles of learning? (10 min)
-- Work in groups of three.
-- Carefully read the strategies as a group.
-- Pick one principle that is not clear to you.
-- Ask one question.
----
 ![](https://i.imgur.com/k6AW9or.png)
+
 ---
 ## Challenge: Teaching versus training
 - Based on your experience, what are in your opinion the differences between teaching and
@@ -121,6 +116,7 @@ training?
 ---
 ## How does learning progress?
 ![](https://i.imgur.com/0LidygS.png)
+
 ---
 ## Bloom's taxonomy
 ---
