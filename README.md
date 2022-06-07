@@ -172,7 +172,7 @@ In practice, Bloom's level of cognitive complexity can be used to:
 - You may not end up assessing all of them, but they are statements of what a successful*
 learner will know or be able to AUTONOMOUSLY do at the end of instruction.
 - By the end of the course (session/course/instruction) the successful learner will be able
-to AUTONOMOULY .......
+to AUTONOMOUSLY .......
 
 ---
 ![](https://i.imgur.com/WvwHoQO.png)
