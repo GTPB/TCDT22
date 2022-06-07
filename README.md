@@ -222,7 +222,7 @@ concepts, that a person has about a topic or field.
 ![](https://i.imgur.com/LcX3r2T.png)
 
 ---
-## Novice vs Competent Practitioner vs Expert
+## Novice vs Competent Practitioner versus Expert
 - A novice, typically has not yet built a mental model of the field.
 - A competent practitioner has a mental model that works for many purposes, but will not be
 very accurate.
