@@ -1,10 +1,13 @@
 # TCDT22
-Training Course Delivery Tech
+Training Course Delivery Techniques
 
 This content is aimed at newcomers to training course delivery
 
 Training course design is deliberately not explored here in any detail here
 
+Content for this session has been partially adapted from the Elixir Train the Trainer repositories
+
+---
 ### General thoughts about learning activities
 
 Transfer of knowledge and skills
@@ -70,8 +73,7 @@ by Yana Weinstein, Megan Smith & Oliver Caviglioli is licensed under a Create Co
 Attribution-NonCommercial-NoDerivatives 4.0 International License. It is based on work that
 can be found at
 
-[http://www.learningscientists.org, teachinghow2s.com/cogsci](http:
-//www.learningscientists.org)
+[http://www.learningscientists.org](http://www.learningscientists.org)
 
 ---
 ![](https://i.imgur.com/cyRoQaE.png)
