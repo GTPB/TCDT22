@@ -1,11 +1,11 @@
 # TCDT22
-Training Course Delivery Techniques
+Training Course Delivery Techniques (2022/06/07)
 
 This content is aimed at newcomers to training course delivery
 
 Training course design is deliberately not explored here in any detail here
 
-Content for this session has been partially adapted from the Elixir Train the Trainer repositories
+Content for this session has been partially adapted from the Elixir Train the Trainer repositories and other training resources combined
 
 ---
 ### General thoughts about learning activities
@@ -13,14 +13,30 @@ Content for this session has been partially adapted from the Elixir Train the Tr
 Transfer of knowledge and skills
 
 Formal, Non-formal and Informal Learning
+Training is an istance of Non-formal learning, shomehow in between
+- Formal: attend classes, perform in exams to obtain a degree
+- Informal: learn how to make the perferct scrambled eggs
+
+Active learning 
+
+Watch together:
+Peer Instruction for Active Learning - Eric Mazur
+https://youtu.be/Z9orbxoRofI      14 minutes
+
+Brief Discussion
 
 ### Contact with the subject matter
 
-Reduction of lecture times
+## Reduction of lecture times
+because they are ONE WAY delivery, not really as effective as restfulmisolated contact with well prepared content)
 
-Flipped-classroom technique
+## The Flipped Classroom Model
+https://youtu.be/qdKzSq_t8k8     4 minutes
 
-Adult learner specificities
+## Adult learner specificities (Andragogy)
+Adults are are naturally self-centereed in terms of their goals. 
+They tend to work hardly in order to obtain personal enhancements and capabilities.
+In training, instructors should understand how to fully explore this, promoting their full engagement.
 
 ### Training
 
@@ -31,8 +47,6 @@ The role of discussions and exercises
 Feedback and assessment
 
 ### When and where does learning take place?
-
-Active learning
 
 Not a single learning theory can be universally accepted
 
@@ -174,13 +188,14 @@ learn, understand, believe
 4. Discuss in the group
 
 ---
+
 ![](https://i.imgur.com/mCRBRqu.png)
 ---
 ## What can we do to make more room in working memory?
 - Chunking
 - Increase background knowledge
 - Avoid extraneous cognitive load
--
+
 ---
 ## Increasing background knowledge
 ![](https://i.imgur.com/ZpsI8UM.png)
