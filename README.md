@@ -112,8 +112,8 @@ to learning.
 ![](https://i.imgur.com/k6AW9or.png)
 
 ---
-## Challenge: Teaching versus training
-- Based on your experience, what are in your opinion the differences between teaching and
+## Teaching versus training
+- Based on your experience, spot the differences between teaching and
 training?
 - Identify some main differences
 - Discuss them in the group
@@ -124,9 +124,10 @@ training?
 
 ---
 ## Bloom's taxonomy
----
+
 ### Bloom's six categories of cognitive skills
 ![](https://i.imgur.com/M4xZHFQ.png)
+
 ---
 ### Using Bloom's taxonomy
 - Bloom's taxonomy can be helpful in aligning the training with the learners' level of
@@ -212,8 +213,6 @@ from a problem to its solution because there is a direct link between the two in
 ---
 ## What facilitates learning?
 - It is not only a matter of knowledge
-Firefox https://raw.githubusercontent.com/GTPB/ELIXIR-Train-the...
-6 of 22 6/6/22, 18:16
 - Help novices build a mental model
 - Help learners make connections
 - Detect and remedy misconceptions
