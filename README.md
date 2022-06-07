@@ -86,7 +86,7 @@ can be found at
 ---
 ## 7 evidence-based learning principles
 #### Principle P1:
-Learnerss' prior knowledge can help or hinder learning.
+Learners' prior knowledge can help or hinder learning.
 #### Principle P2:
 How learners organise knowledge influences how they learn and apply what they know.
 #### Principle P3:
