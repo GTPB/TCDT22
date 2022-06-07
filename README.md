@@ -87,6 +87,9 @@ can be found at
 
 ---
 ## 7 evidence-based learning principles
+
+![](https://i.imgur.com/rRMuTLb.png)
+
 #### Principle P1:
 Learners' prior knowledge can help or hinder learning.
 #### Principle P2:
