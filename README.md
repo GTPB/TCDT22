@@ -10,8 +10,10 @@ Content for this session has been partially adapted from the Elixir Train the Tr
 
 Transfer of knowledge and skills
 
-Formal, Non-formal and Informal Learning
-Training is an istance of Non-formal learning, shomehow in between
+Formal, Non-Formal and Informal Learning
+
+Training is an istance of Non-Formal learning, shomehow in between:
+
 - Formal: attend classes, perform in exams to obtain a degree
 - Informal: learn how to make the perferct scrambled eggs
 
@@ -26,7 +28,7 @@ Brief Discussion
 ### Contact with the subject matter
 
 ## Reduction of lecture times
-because they are ONE WAY delivery, not really as effective as restfulmisolated contact with well prepared content)
+because they are ONE WAY delivery, not really as effective as restful, isolated contact with well prepared content)
 
 ## The Flipped Classroom Model
 https://youtu.be/qdKzSq_t8k8     4 minutes
