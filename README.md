@@ -1,11 +1,15 @@
 # TCDT22
 ### Training Course Delivery Techniques (2022/06/07)
 
-This content is aimed at newcomers to training course delivery
+by Pedro L. Fernandes (pfern@igc.gulbenkian.pt)
+Instituto Gulbenkian de Ciência, Oeiras, Portugal
 
-Training course design is deliberately not explored here in any detail here
+This content is aimed at newcomers to training course delivery.
+
+Training course design is deliberately not explored here in any detail here.
 
 Content for this session has been partially adapted from the Elixir Train the Trainer repositories and other training resources combined.
+This is ackowledged at the end of this document.
 
 ---
 ### General thoughts about learning activities
@@ -13,6 +17,8 @@ Content for this session has been partially adapted from the Elixir Train the Tr
 Transfer of knowledge and skills
 
 Formal, Non-Formal and Informal Learning
+283
+
 
 Training is an istance of Non-Formal learning, shomehow in between:
 
@@ -281,4 +287,9 @@ necessary for learning (and it is definitely not sufficient!).
 ELIXIR TtT Salerno 2017
 https://github.com/TrainTheTrainer/EXCELERATE-TtT/tree/master/courses/Salerno2017
 
+http://joitskehulsebosch.blogspot.com/2015/01/how-our-learning-theories-shape-how-we.html
+
+http://tktmodule1-3.blogspot.com/2016/08/blooms-taxonomy-verbs.html
+
+https://www.fosteropenscience.eu/content/open-science-training-handbook
 
