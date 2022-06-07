@@ -130,9 +130,11 @@ training?
 
 ---
 ### Using Bloom's taxonomy
-- Bloom's taxonomy can be helpful in aligning the training with the learners' level of
+
+Bloom's taxonomy can be helpful in aligning the training with the learners' level of
 thinking (complexity, experience, etc).
-- In practice, Bloom's level of cognitive complexity can be used to:
+
+In practice, Bloom's level of cognitive complexity can be used to:
 - Write learning outcomes (LOs)
 - Design instruction and learning experiences
 - Assess learning
