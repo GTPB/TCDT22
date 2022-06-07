@@ -3,7 +3,7 @@
 
 This content is aimed at newcomers to training course delivery
 Training course design is deliberately not explored here in any detail here
-Content for this session has been partially adapted from the Elixir Train the Trainer repositories and other training resources combined
+Content for this session has been partially adapted from the Elixir Train the Trainer repositories and other training resources combined.
 
 ---
 ### General thoughts about learning activities
@@ -245,7 +245,8 @@ contradictions.
 identity and are the hardest to change.
 
 ---
-## Cognitive load
+## Three types of Cognitive load
+
 1. **Intrinsic cognitive load** is the effort associated with a specific topic.
 2. **Germane cognitive load** it is the (desirable) mental effort required to create linkages
 between new information and old.
