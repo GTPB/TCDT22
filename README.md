@@ -285,11 +285,14 @@ necessary for learning (and it is definitely not sufficient!).
 ### References and Acknowledgements
 
 ELIXIR TtT Salerno 2017
-https://github.com/TrainTheTrainer/EXCELERATE-TtT/tree/master/courses/Salerno2017
+https://github.com/TrainTheTrainer/EXCELERATE-TtT/tree/master/courses/Salerno2017 
+initially developed by Allegra Via and Pedro Fernandes, then enriched by various people in ELIXIR
 
 http://joitskehulsebosch.blogspot.com/2015/01/how-our-learning-theories-shape-how-we.html
 
 http://tktmodule1-3.blogspot.com/2016/08/blooms-taxonomy-verbs.html
 
 https://www.fosteropenscience.eu/content/open-science-training-handbook
+
+In the folders the 2010 paper describing GTPB and the sample issue of The Calix with an attempt to systematise a training course desigh as a recipy.
 
